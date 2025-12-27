@@ -1,0 +1,25 @@
+Escriba en el lenguaje de programación Python una librería para hacer operaciones entre números complejos. Recuerde que está librería es parte de su proyecto de tercio y de curso por lo que debe construirla y diseñarla de manera eficiente y reusable. Incluya en su proyecto un programa que realice las pruebas automáticas de su librería usando el framework de pruebas unittest de Python (https://docs.python.org/3/library/unittest.html). La librería debe modelar los números complejos cómo una tupla donde el primer componente es la parte real y el segundo la parte imaginaria. Para modelar los número complejos en coordenadas polares también puede usar una tupla, pero en este caso el primer componentes será la magnitud (módulo) y el segundo la fase (angulo). 
+
+NO USE EL TIPO DE DATOS DE NUMEROS COMPLEJOS DE PYTHON.
+
+La librería debe soportar por lo menos las siguientes operaciones entre números complejos:
+
+Suma
+Producto
+Resta
+División
+Módulo
+Conjugado
+Conversión entre representaciones polar y cartesiano, en los dos sentidos.
+Retornar la fase de un número complejo.
+Entregables:
+
+Entregue el enlace a su proyecto en GitHub.El proyecto debe contener mínimo lo siguiente:
+
+1. Librería con  8 funciones de números complejos.
+
+2. Archivo con pruebas automáticas de las funciones ( al menos 2 pruebas por función).
+
+3. Readme.md (Archivo que describe su proyecto escrito en Markdown)
+
+4. Archivo ".gitignore" (Archivo que describe que archivos dejar por fuera del control de versiones)
